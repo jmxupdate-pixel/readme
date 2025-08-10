@@ -1,5 +1,5 @@
 # OpenCV Feature Matching & Rotation Detection
-
+ 
 This project uses **OpenCV** to detect features between two images, match them, and visualize the matches.
 It works in **headless environments** (Linux servers, SSH, Colab) by saving outputs to files instead of opening GUI windows.
 
