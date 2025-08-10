@@ -8,7 +8,7 @@ It works in **headless environments** (Linux servers, SSH, Colab) by saving outp
 Python 3.7+
 ```bash
 sudo apt update
-sudo apt install python3 python3-pip
+sudo apt install python3 python3-pip```
 
 Install dependencies:
 
